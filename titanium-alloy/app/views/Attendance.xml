@@ -1,0 +1,5 @@
+<Alloy>
+    <Window title="参加者">
+        <TableView id="attendances" />
+    </Window>
+</Alloy>

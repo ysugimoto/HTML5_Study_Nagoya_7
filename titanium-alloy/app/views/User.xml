@@ -1,0 +1,6 @@
+<Alloy>
+    <TableViewRow id="user">
+        <Label id="nickname" />
+        <Label id="status" />
+    </TableViewRow>
+</Alloy>

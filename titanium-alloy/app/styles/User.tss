@@ -1,0 +1,17 @@
+"#nickname": {
+    top: "10dp",
+    bottom: 10,
+    left: "10dp",
+    font: {
+        fontSize: "18dp"
+    }
+},
+
+"#status": {
+    top: "10dp",
+    bottom: 10,
+    right: 10,
+    font: {
+        fontSize: "18dp"
+    }
+}

@@ -1,0 +1,10 @@
+<Alloy>
+    <TabGroup>
+        <Tab title="概要" id="description">
+            <Require type="view" src="Description" />
+        </Tab>
+        <Tab title="参加者" id="attendance">
+            <Require type="view" src="Attendance" />
+        </Tab>
+    </TabGroup>
+</Alloy>

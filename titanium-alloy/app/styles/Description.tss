@@ -1,0 +1,44 @@
+"Label": {
+    font: {
+        fontSize: "18dp"
+    }
+},
+"#title": {
+    left: "10dp",
+    top: "10dp",
+    bottom: 10
+},
+
+"#titlevalue": {
+    right: 10
+},
+
+"#limit": {
+    left: "10dp",
+    top: "10dp",
+    bottom: 10
+},
+
+"#limitvalue": {
+    right: 10
+},
+
+"#accepted": {
+    left: "10dp",
+    top: "10dp",
+    bottom: 10
+},
+
+"#acceptedvalue": {
+    right: 10
+},
+
+"#waiting": {
+    left: "10dp",
+    top: "10dp",
+    bottom: 10
+},
+
+"#waitingvalue": {
+    right: 10
+}

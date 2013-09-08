@@ -1,0 +1,23 @@
+<Alloy>
+    <Window title="イベント概要">
+        <TableView id="desc">
+            <TableViewRow>
+                <Label id="title" text="イベント名" />
+                <Label id="titlevalue" />
+            </TableViewRow>
+            <TableViewRow>
+                <Label id="limit" text="定員" />
+                <Label id="limitvalue" />
+            </TableViewRow>
+            <TableViewRow>
+                <Label id="accepted" text="参加者" />
+                <Label id="acceptedvalue" />
+            </TableViewRow>
+            <TableViewRow>
+                <Label id="waiting" text="補欠者" />
+                <Label id="waitingvalue" />
+            </TableViewRow>
+        </TableView>
+        <Require id="loading" type="widget" src="com.appcelerator.loading"/>
+    </Window>
+</Alloy>

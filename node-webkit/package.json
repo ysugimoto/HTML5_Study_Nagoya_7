@@ -1,0 +1,24 @@
+{
+  "name": "Zusaar event manager",
+  "version": "0.1.0",
+  "description": "Zusaar event management sample application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Yoshiaki Sugimoto",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt": "~0.4.1"
+  },
+  "window": {
+    "title": "Zusaar event manager",
+    "toolbar": false,
+    "show": false
+  }
+}

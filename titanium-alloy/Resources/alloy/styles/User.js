@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0017,"key":"nickname","style":{top:"10dp",bottom:10,left:"10dp",font:{fontSize:"18dp",},}},{"isId":true,"priority":100000.0018,"key":"status","style":{top:"10dp",bottom:10,right:10,font:{fontSize:"18dp",},}}];
