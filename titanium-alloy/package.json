@@ -1,0 +1,20 @@
+{
+  "name": "titanium-alloy",
+  "version": "0.1.0",
+  "description": "Welcome to your Appcelerator Titanium Mobile Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Yoshiaki Sugimoto",
+  "license": "MIT",
+  "readmeFilename": "README",
+  "dependencies": {
+    "titanium": "~3.1.2",
+    "alloy": "~1.2.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
