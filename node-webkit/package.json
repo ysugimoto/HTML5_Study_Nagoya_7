@@ -1,5 +1,5 @@
 {
-  "name": "Zusaar event manager",
+  "name": "node-webkit",
   "version": "0.1.0",
   "description": "Zusaar event management sample application",
   "main": "index.html",
